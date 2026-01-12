@@ -5,7 +5,7 @@ This project demonstrates a serverless image processing application built on AWS
 When a user uploads an image to an S3 bucket, an AWS Lambda function is triggered automatically to process the image (resize/watermark) and store the output in another S3 bucket.
 
 ## Solution Architecture
-
+Architecture/Architecture.png
 
 ## AWS Services Used
 - Amazon S3
